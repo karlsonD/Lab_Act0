@@ -1,4 +1,4 @@
-# flutter_application_1
+# Lab Activity 0B: Discussion
 
 A new Flutter project.
 
